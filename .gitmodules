@@ -1,4 +1,4 @@
 [submodule "rnnoise"]
 	path = rnnoise
-	url = https://github.com/Ameobea/rnnoise.git
+	url = https://github.com/MarkTiukov/rnnoise.git
 	branch = optimize
